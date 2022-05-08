@@ -8,7 +8,7 @@ cask "miniwol2" do
   homepage "https://www.tweaking4all.com/network-internet/miniwol2/"
 
   livecheck do
-    url "https://www.tweaking4all.com/network-internet/miniwol2/"
+    url "https://www.tweaking4all.com/downloads/"
     regex(/href=.*?miniWOL-v?(\d+(?:\.\d+)+)-64bit\.dmg/i)
   end
 
