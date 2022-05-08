@@ -4,7 +4,7 @@ cask "miniwol2" do
 
   url "https://www.tweaking4all.com/downloads/network/miniWOL-v#{version}-64bit.dmg"
   name "miniWOL v2"
-  desc "A small menu bar tool for sending Wake on LAN (WOL) network packets."
+  desc "Small menu bar tool for sending Wake on LAN (WOL) network packets"
   homepage "https://www.tweaking4all.com/network-internet/miniwol2/"
 
   livecheck do
