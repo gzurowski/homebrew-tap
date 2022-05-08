@@ -7,5 +7,5 @@ cask "miniwol2" do
     desc "A small menu bar tool for sending Wake on LAN (WOL) network packets to hosts."
     homepage "https://www.tweaking4all.com/network-internet/miniwol2/"
 
-    app "miniWOL-v2.1.3-64bit.dmg"
+    app "miniWOL.app"
 end
